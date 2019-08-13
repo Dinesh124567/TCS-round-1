@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cadbery{
+public class cadbury{
     public static void main(String[] a){
         Scanner s=new Scanner(System.in);
         int l1=s.nextInt();
